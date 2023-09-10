@@ -1,1 +1,1 @@
-<H1>Github Reppo for digital bhem project</H1>
+<H1>Github Repo for digital bhem project</H1>
